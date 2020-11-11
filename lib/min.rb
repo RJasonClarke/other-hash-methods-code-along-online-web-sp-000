@@ -9,6 +9,6 @@ require 'pry'
  }
 
 def get_the_min(groceries)
-  groceries = {broccoli, d:1}
+  groceries = {broccoli}
   groceries.min
 end
